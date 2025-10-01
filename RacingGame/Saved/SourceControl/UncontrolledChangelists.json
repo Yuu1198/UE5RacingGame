@@ -1,0 +1,22 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/nadia/source/repos/Yuu1198/UE5RacingGame/RacingGame/Content/VehicleTemplate/Blueprints/SportsCar/BP_Car_AI.uasset",
+				"C:/Users/nadia/source/repos/Yuu1198/UE5RacingGame/RacingGame/Content/Blueprints/BP_TrackSpline.uasset",
+				"C:/Users/nadia/source/repos/Yuu1198/UE5RacingGame/RacingGame/Content/__ExternalActors__/Variant_Timetrial/Maps/Lvl_Timetrial/E/HW/OY52Y1JE6O1B22L2ATNMOJ.uasset",
+				"C:/Users/nadia/source/repos/Yuu1198/UE5RacingGame/RacingGame/Content/__ExternalActors__/Variant_Timetrial/Maps/Lvl_Timetrial/B/7K/K3YVZKEFPT54M4ZJMV6RWW.uasset",
+				"C:/Users/nadia/source/repos/Yuu1198/UE5RacingGame/RacingGame/Content/VehicleTemplate/Blueprints/SportsCar/BP_VehicleAdvSportsCar.uasset",
+				"C:/Users/nadia/source/repos/Yuu1198/UE5RacingGame/RacingGame/Content/Variant_Timetrial/UI/UI_Start.uasset",
+				"C:/Users/nadia/source/repos/Yuu1198/UE5RacingGame/RacingGame/Content/Vehicles/SportsCar/Materials/MI_SportsCarBody_Blue.uasset",
+				"C:/Users/nadia/source/repos/Yuu1198/UE5RacingGame/RacingGame/Content/Vehicles/SportsCar/Materials/MI_SportsCarBody_Green.uasset",
+				"C:/Users/nadia/source/repos/Yuu1198/UE5RacingGame/RacingGame/Content/Vehicles/SportsCar/Materials/MI_SportsCarBody_Purple.uasset",
+				"C:/Users/nadia/source/repos/Yuu1198/UE5RacingGame/RacingGame/Content/__ExternalActors__/Variant_Timetrial/Maps/Lvl_Timetrial/5/6V/TEDZ0M7E4J8753UQXCDTED.uasset",
+				"C:/Users/nadia/source/repos/Yuu1198/UE5RacingGame/RacingGame/Content/__ExternalActors__/Variant_Timetrial/Maps/Lvl_Timetrial/B/O3/E74A1EAMGJMZ9X74M7WRZB.uasset"
+			]
+		}
+	]
+}
